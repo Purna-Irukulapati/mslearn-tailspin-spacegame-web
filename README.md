@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/10148026/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Purna-Irukulapati.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/10148026/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
